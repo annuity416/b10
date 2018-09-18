@@ -1,3 +1,5 @@
 Test Git file
 
+Added messages
+
 Hello World
